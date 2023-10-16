@@ -20,4 +20,4 @@ Networked:
 Important that note taking is tool-agnostic, because I want people to actually use their notes. So take your notes in emacs/vim/vscode,obsidian, etc. It's about networking the output (files), regardless of input methods.
 
 
-I need to outsource the processing of information, summarizing, map reducing, to other individuals, so I can keep up. So we can all assist each other, in these endevours. We'll turn keeping up with info, and imbuining it and incorporating it into each of disparate realities, together.
+I need to outsource the processing of information, summarizing, map reducing, to other individuals, so I can keep up. So we can all assist each other, in these endevours. We'll turn keeping up with info, and imbuining it and incorporating it into each of disparate realities, into something we can do together. We could almost call it a group project of sorts.
