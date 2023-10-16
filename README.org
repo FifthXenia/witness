@@ -1,2 +1,20 @@
 * witness
 (WIP) Collated MapReduced Witness
+
+
+- Share md/org/txt notes, etc. Take notes using whatever tools you use, add properties like book uuid, youtube link, create parser that extracts notes and their stable reference, publish index and reactions (favorites, upvotes/downvotes, etc), to an index file.
+- Have them publish index file and reactions to a github repo. They also need their notes published on github pages, so I can reference and redirerect to their raw note content. I take github repo of indexes and reactions, put indexes/reactions to a free 5gb planetscale db. From DB, create a api that ingests DB, and gives relevant notes. Maybe can also run this on javascript/wasm pure frontend, and state/db is off-site on platescale.
+
+Index: Youtube video hash, book uuid/title, web url, etc.
+
+Networked:
+- Favorites, maybe can add uuids of users you want to be ranked at top (network).
+
+
+- Rust WASM browser plugin, that displays/pulls notes
+- Editor integration (say if org-media-note on video, take hash from yt-dlp file name, or url, have a option to pull up other's notes in a separate buffer, see what other's said, summaries, etc. *saves you time, to see what's important, what other's thought. Builds bigger brain, more advanced, layered, and disparate filters.* ).
+
+- Having notes available to all content, promotes thinking, abstractions. Reforms reality. *Higher order reality. We're passed higher order functions, we're onto higher order reality.*
+
+
+Important that note taking is tool-agnostic, because I want people to actually use their notes. So take your notes in emacs/vim/vscode,obsidian, etc. It's about networking the output (files), regardless of input methods.
