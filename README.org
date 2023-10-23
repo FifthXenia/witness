@@ -24,4 +24,5 @@ I need to outsource the processing of information, summarizing, map reducing, to
 * Research
 ** Auth:
 - https://github.com/EddieHubCommunity/BioDrop
+  - Also research how db is running (on github, or offsite?)
 - https://github.com/Pradumnasaraf/BioDrop-CLI
