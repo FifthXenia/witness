@@ -1,3 +1,5 @@
+- Comprect: Compress + Compact.
+
 * witness
 (WIP) Collated MapReduced Witness
 
