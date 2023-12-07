@@ -28,3 +28,5 @@ I need to outsource the processing of information, summarizing, map reducing, to
 - https://github.com/EddieHubCommunity/BioDrop
   - Also research how db is running (on github, or offsite?)
 - https://github.com/Pradumnasaraf/BioDrop-CLI
+** Similar:
+- https://memex.garden/
