@@ -32,3 +32,4 @@ I need to outsource the processing of information, summarizing, map reducing, to
 - https://memex.garden/
   - Local Sync (Obsidian/etc): https://github.com/WorldBrain/memex-local-sync
      - https://memex.featurebase.app/changelog/650f4facea03ffc65267adcd
+     - https://memex.featurebase.app/changelog/652ff670350195832229ce2b
