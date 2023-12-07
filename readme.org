@@ -30,3 +30,4 @@ I need to outsource the processing of information, summarizing, map reducing, to
 - https://github.com/Pradumnasaraf/BioDrop-CLI
 ** Similar:
 - https://memex.garden/
+  - Local Sync (Obsidian/etc): https://github.com/WorldBrain/memex-local-sync
