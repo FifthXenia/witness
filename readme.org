@@ -33,3 +33,4 @@ I need to outsource the processing of information, summarizing, map reducing, to
   - Local Sync (Obsidian/etc): https://github.com/WorldBrain/memex-local-sync
      - https://memex.featurebase.app/changelog/650f4facea03ffc65267adcd
      - https://memex.featurebase.app/changelog/652ff670350195832229ce2b
+  - I don't think they allow indexing by content id. I just want generic content-id searching interface, that indexes to your site, and pulls the note content. So I want a meta-interaction for this, and be platform agnostic.
